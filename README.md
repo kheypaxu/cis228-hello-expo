@@ -22,18 +22,32 @@ Welcome to **Hello Expo**, a sleek, interactive mobile application designed to d
 
 ---
 
-## 📸 App Preview
+## 📸 App Preview for Step 5 Mission
 
 <div align="center">
 
-<img src="./assets/images/ss1.jpg" width="250" alt="Home Screen" />
-<img src="./assets/images/ss2.jpg" width="250" alt="Greeting Screen" />
-<img src="./assets/images/ss3.jpg" width="250" alt="Interactive Screen" />
+<img src="./assets/images/ss1.jpg" width="250" />
+<img src="./assets/images/ss2.jpg" width="250" />
+<img src="./assets/images/ss3.jpg" width="250" />
 
 </div>
 
 <p align="center">
   <em>Clean and Responsive</em>
+</p>
+
+---
+
+## 📸 App Preview for Level Up Challenge
+
+<div align="center">
+
+<img src="./assets/images/ss4.jpg" width="250"/>
+
+</div>
+
+<p align="center">
+  <em>Level Up Challenge: To-do List</em>
 </p>
 
 ---
