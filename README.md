@@ -1,50 +1,67 @@
-# Welcome to your Expo app 👋
+# Project: Hello Expo!
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<div align="center">
+  <img src="./assets/images/kheypaxu.jpg" width="200" height="250" alt="App Logo" style="border-radius: 50%;">
+  <p><em>"A personalized mobile experience built with React Native & Expo"</em></p>
 
-## Get started
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 
-1. Install dependencies
+</div>
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 📖 Overview
 
-   ```bash
-   npx expo start
-   ```
+Welcome to **Hello Expo**, a sleek, interactive mobile application designed to demonstrate the power of React Native components. This project moves beyond boilerplate code to feature:
 
-In the output, you'll find options to open the app in a
+- ✨ **Personalized Greetings**: Real-time state management that reacts as you type.
+- 🖼️ **Custom Branding**: Integrated local assets and optimized image rendering via `expo-image`.
+- 📱 **Interactive UI**: Custom-styled inputs and native alerts for a seamless user experience.
+- 🌊 **Parallax Effects**: A beautiful scrolling header that stays engaged with the user.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📸 App Preview
 
-## Get a fresh project
+<div align="center">
 
-When you're ready, run:
+<img src="./assets/images/ss1.jpg" width="250" alt="Home Screen" />
+<img src="./assets/images/ss2.jpg" width="250" alt="Greeting Screen" />
+<img src="./assets/images/ss3.jpg" width="250" alt="Interactive Screen" />
+
+</div>
+
+<p align="center">
+  <em>Clean and Responsive</em>
+</p>
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to get the app running on your local machine or physical device.
+
+### 1. Clone & Enter
 
 ```bash
-npm run reset-project
+git clone [https://github.com/your-username/cis228-hello-expo.git](https://github.com/your-username/cis228-hello-expo.git)
+cd cis228-hello-expo
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Install the Dependencies
 
-## Learn more
+```bash
+npm install
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### 3. Launch the App
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npx expo start
+```
 
-## Join the community
+### 4. Scan and Enjoy!
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Android/iOS: Open the Expo Go app and scan the QR code displayed in your terminal.
+- Web: Press w in the terminal to open in your browser.
